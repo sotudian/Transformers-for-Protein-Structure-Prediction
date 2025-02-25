@@ -14,7 +14,6 @@ random.seed(2)
 from sklearn.metrics import confusion_matrix
 import csv
 import pickle
-
 import math
 import numpy as np
 import pandas as pd
