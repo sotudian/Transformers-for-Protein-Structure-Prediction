@@ -35,7 +35,7 @@ from sklearn.linear_model import LinearRegression
 import json
 import copy
 
-# Functions  ###################=================----------------------
+# Functions  ###################=================---------------------
 
 map_folder='./Project/features/att_map_esm/'
 label_folder='./Project/lables/dist_map/'
